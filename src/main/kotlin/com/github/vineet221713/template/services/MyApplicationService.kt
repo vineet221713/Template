@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vineet221713.template.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vineet221713.template.MyBundle
 
 class MyApplicationService {
 
